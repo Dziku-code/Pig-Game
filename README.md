@@ -32,7 +32,7 @@
             <li>Acitve player<b>(highlighted)</b> is starting, press a roll button to play. If the number on dice <b>!==1</b> then it will be add tu your current score <br>
             You can press hold button to end your turn. It save current score to global score and change a player.</li>
             <li>If number on <b>dice == 1</b> then active  player lost his current score and system change the player</li>
-            <li> First player who gets a 100 points win (the winner player theme will change to <b> black</b> color) 🥇</li>
+            <li> First player who get a 100 points win (the winner player theme will change to <b> black</b> color) 🥇</li>
         </ol>
         <div align="center">
         <hr>
